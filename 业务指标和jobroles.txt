@@ -1,0 +1,86 @@
+动态的和传统的
+
+收入（关乎销售），利润（利益）——效益，（关乎生产、库存）， 风险
+
+动态的指标：能对短期产生收入、利润、风险产生影响的指标
+如：
+1.淘宝的依据客户点击量，点击转化量……2.最有可能结合购买的商品 ……
+
+
+还要关注 影响现金流的因素—— 库存周转率
+
+库存周转率会影响：
+1.负浮动资金流动
+2.固定成本的影响，导致利润率降低
+3.商品价值折损
+4.商品直接没用了 （有保质期的货物）
+
+通过上面的因素，进行数据分析，再次决定具体物品 具体地点 什么时候、生产多少
+
+
+The average number of days inventory is held should be minimized for ALL of the following reasons EXCEPT ________.
+
+Some products will be wasted completely if they don’t get purchased by a certain time
+
+Customers are frustrated if something they want is not in stock
+
+It costs money to store the products
+
+The longer a product stays in inventory, the less likely it will be purchased
+
+The longer the negative float, the more interest a business has to pay
+
+识别了具体时间和单品的现金收入记录做对比，看是否有产生实质性的效益
+
+
+ 
+不是所有的库存都是传统意义上的 比如酒店床位、交通工具的座位 （汽车、飞机等）
+————所有的固定成本都是已经付出的（沉没成本），所以要全力把位置卖出去（）
+
+我们重新计算平均入住率并按星期几排序（） 还有季节性的变化
+这里就是我们的时间序列（包括季节性的）
+
+人多的时间点就升高价格，人少的时候就降低价格（物以稀为贵）——权衡价格和需求的复杂模型
+地板价 折扣价 标准价
+
+
+risk：
+1.杠杠 2.声誉（例子：大数据得出已购买不好产品的用户，并召回产品）
+
+
+
+业务分析师：
+1.熟悉行业的商业衡量指标
+2.能用正确模型去分析指标
+3.能衡量模型的鲁棒性和敏感度（量化）
+4.懂得倾听能通过与内部或外部的客户对话确定项目需求 并report 
+5.basic excel skills  识别业务数据中的模式和趋势 做出预测
+6.演示技能
+7.数据可视化tableau 
+
+
+商业数据分析师（更高级一点）：
+怎样使公司现有数据重新组合并且以崭新视角来更好地理解当前经营状况 分析并提供更好的决策支持
+think flexibly about business and explore opportunities for process improvement 
+2.技术支持
+
+gather-store-manage -search -process -analyze-visualize-report
+
+
+五种公司，需求越来越大，而电商竞争特别大，只有前面的有饭吃，相对来说可能sofeware/hardware公司会更稳定但是不适合数据科学的人，但是电商更偏向商
+中间的Strategic	Business Consulting-with a focus on Software and IT systems itegration：
+可能会更利于我们的生存(只是可能）
+
+ Traditional Strategic Business Consulting firms are the least likely to hire software engineers and technical project managers because Analysts represent the largest single job type in these types of firms.
+
+You can do a lot of data processing, data analysis, and data modeling if you are using [it] with very good efficiency.”——excel
+
+Hardware & software companies compete in a market that has a very unusual cost structure. This is because:
+1.These types of companies derive their value from developing and delivering proprietary intellectual property.
+2.They incur almost all their costs up front, before the first product is sold, while the incremental cost to create one more unit of the product is very low.
+3.It has high variable costs and low fixed costs.
+
+For brick and mortar businesses to survive digital competition, the most important factor is:Brand Awareness and customer loyalty
+#根据顾客过去的购买历史，以优惠券或其他特价商品为对象，在他们访问商店时对其进行定位。	
+
+
